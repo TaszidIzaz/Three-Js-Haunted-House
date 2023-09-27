@@ -1,2 +1,2 @@
-# Three Js Haunted House
- Haunted House Using Three Js
+# haunted-house
+ A Haunted House Experience Made using Three Js
